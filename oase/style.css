@@ -5,3 +5,7 @@ body {
 .card {
     max-width: 28rem;
 }
+
+#icon {
+    border-radius: 22.5%;
+}
