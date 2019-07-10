@@ -1,6 +1,5 @@
 body {
-    /* background-color: #F6F6F8; */
-    background-color: rgb(218, 255, 247);
+    background-color: rgba(150, 171, 121, 0.507);
 }
 
 .card {
@@ -9,4 +8,9 @@ body {
 
 #icon {
     border-radius: 22.5%;
+}
+
+.icon-box {
+    background-color: rgba(0, 0, 0, 0);
+    border: 0ch;
 }
